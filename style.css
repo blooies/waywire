@@ -1,0 +1,107 @@
+body {
+	text-transform: uppercase;
+	font-family: arial;
+}
+
+#bag {
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.dot-1 {
+	position: absolute
+}
+
+.dot-2 {
+	position: absolute
+}
+
+.dot-3 {
+	position: absolute
+}
+
+span {
+	font-weight: bold
+}
+
+.line {
+	height: 2px;
+	background-color: #ccc;
+	z-index: 10;
+	position: relative;
+}
+
+.leather {
+	position: relative
+}
+
+.buckle {
+	position: relative
+}
+
+.stitch {
+	position: relative
+}
+
+#weight {
+	position: relative
+}
+
+#leather {
+	position: relative
+
+}
+
+#buckle {
+	position: relative
+}
+
+#stitch {
+	position: relative
+}
+
+#lining {
+	position: relative
+}
+
+#width {
+	position: absolute
+}
+
+#width-2 {
+	position: absolute
+}
+
+#width-3 {
+	position: absolute
+}
+
+#width-4 {
+	position: absolute
+}
+
+#height {
+	position: absolute
+}
+
+#height-2 {
+	position: absolute
+}
+
+#left-container{
+	position: absolute;
+	text-align: right;
+	width: 200px;
+	height: 400px;
+}
+
+#right-container {
+	position: absolute;
+	top: 100px;
+	width: 200px;
+	height: 400px;
+}
